@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../projeto-pa\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Usúario\Pablo\Documentos\projeto-pa\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
